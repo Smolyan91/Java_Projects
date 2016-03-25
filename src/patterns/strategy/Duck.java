@@ -9,9 +9,16 @@ public abstract class Duck {
     QuackBehavior quackBehavior;
 
     public abstract void display();
-    public Duck(){
+    public Duck(){}
 
+    public void setFlyBehavior(FlyBehavior flyBehavior) {
+        this.flyBehavior = flyBehavior;
     }
+
+    public void setQuackBehavior(QuackBehavior quackBehavior) {
+        this.quackBehavior = quackBehavior;
+    }
+
     // Метод заменяет поведение quack()
     public void performQuack(){
         quackBehavior.quack();
