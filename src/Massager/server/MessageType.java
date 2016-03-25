@@ -1,4 +1,4 @@
-package server;
+package Massager.server;
 
 /**
  * Created by smolyan on 23.03.16.

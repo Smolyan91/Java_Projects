@@ -1,4 +1,4 @@
-package client;
+package Massager.client;
 
 import javax.swing.*;
 import java.awt.*;

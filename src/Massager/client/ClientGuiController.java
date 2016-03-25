@@ -1,4 +1,4 @@
-package client;
+package Massager.client;
 
 /**
  * Created by smolyan on 23.03.16.

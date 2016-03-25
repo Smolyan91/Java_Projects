@@ -1,6 +1,6 @@
-package client;
+package Massager.client;
 
-import server.ConsoleHelper;
+import Massager.server.ConsoleHelper;
 
 import java.io.IOException;
 import java.text.SimpleDateFormat;

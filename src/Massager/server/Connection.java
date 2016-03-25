@@ -1,4 +1,4 @@
-package server;
+package Massager.server;
 
 import java.io.Closeable;
 import java.io.IOException;

@@ -1,9 +1,9 @@
-package client;
+package Massager.client;
 
-import server.Connection;
-import server.ConsoleHelper;
-import server.Message;
-import server.MessageType;
+import Massager.server.Connection;
+import Massager.server.ConsoleHelper;
+import Massager.server.Message;
+import Massager.server.MessageType;
 
 import java.io.IOException;
 import java.net.Socket;

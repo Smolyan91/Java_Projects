@@ -1,4 +1,4 @@
-package client;
+package Massager.client;
 
 import java.util.Collections;
 import java.util.HashSet;
